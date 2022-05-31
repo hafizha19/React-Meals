@@ -1,0 +1,23 @@
+.btnCat {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.meal {
+    margin-top: 15px;
+    width: 250px;
+    padding: auto;
+    /* border: 1px solid black; */
+}
+
+.btnDetail {
+    background-color: #e7e7e7; 
+    color: black;
+}
